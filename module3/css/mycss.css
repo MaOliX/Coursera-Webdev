@@ -1,0 +1,47 @@
+body {
+	background-color: #f0e0b6;
+}
+
+.navbar-light{
+	background-color: #473013;
+}
+
+.navbar{
+	padding:0px;
+}
+
+#navbarNav{
+	background-color:#664a27;
+	padding: 0;
+}
+
+#navbarNav  a{
+	color:white;
+	padding: .5em .5em .5em 1em;
+	font-size: 1.1em;
+}
+
+ .navbar .navbar-brand.brand{
+  color: #ffffff;
+  padding-bottom: .5em;
+  padding-top: .5em;
+  padding-left: 1em;
+  font-size: 1.3em;
+  }
+
+p{
+	font-size: 1.2em;
+}
+
+h2{
+	text-align: center;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+.container{
+	border: 1px black solid;
+	background-color: #dbd6d0;
+	margin-left: 5%;
+	margin-right: 5%;
+}
